@@ -54,6 +54,9 @@ It was imported into **MySQL**, cleaned using **Python**, and analyzed across mu
 ## 📈 Power BI Dashboards
 
 - **Home** – Navigation and quick metrics
+  
+
+
 - **Loan Analysis** – Breakdown by category and client group
 - **Deposit Analysis** – Analysis of savings and account types
 - **Summary** – KPIs and
